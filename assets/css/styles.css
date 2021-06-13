@@ -192,3 +192,22 @@ header {
   text-align: end;
   color: #58506b;
 }
+
+.main-title {
+    position: absolute;
+    width: 268px;
+    height: 25px;
+    left: 24px;
+    top: 551px;
+  }
+  .main-title h3 {
+    color: #58506b;
+  }
+  
+  .main-title-img {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    right: 23px;
+    top: 553px;
+  }
