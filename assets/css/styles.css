@@ -512,7 +512,7 @@ top: 1496px;
   width: 90vw;
   height: 304px;
   position: absolute;
-height: 304px;
+  margin-right: 24px;
 left: 24px;
 top: 1497px;
 background: #FFFFFF;
@@ -616,4 +616,7 @@ margin-left: 20px;
   margin-right: 15px;
   font-size: 10px;
   letter-spacing: -0.03em;
+}
+.main-blog-container img{
+  margin-right: 20px; 
 }
