@@ -622,3 +622,32 @@ margin-left: 20px;
 .main-blog-container img{
   margin-right: 20px; 
 }
+footer{
+  width: 100%;
+  height: 85px;
+
+}
+.footer-container{
+  display: flex;
+  position: fixed;
+  justify-content: space-between;
+width: 327px;
+height: 60px;
+left: calc(50% - 327px/2);
+bottom: 54px;
+background: white;
+border-radius: 20px;
+}
+.footer-element p{
+  font-style: normal;
+font-weight: normal;
+font-size: 10px;
+line-height: 14px;
+
+
+align-items: center;
+text-align: center;
+letter-spacing: -0.03em;
+
+color: #A99DC6;
+}
