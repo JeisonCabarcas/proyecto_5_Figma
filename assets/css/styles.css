@@ -634,10 +634,18 @@ footer{
 width: 327px;
 height: 60px;
 left: calc(50% - 327px/2);
-bottom: 54px;
+bottom: 24px;
 background: white;
 border-radius: 20px;
 }
+.footer-element{
+  justify-content: center;
+  width: 100%;
+  height: auto;
+  display: grid;
+  padding: 10px;
+}
+
 .footer-element p{
   font-style: normal;
 font-weight: normal;
@@ -650,4 +658,5 @@ text-align: center;
 letter-spacing: -0.03em;
 
 color: #A99DC6;
+
 }
