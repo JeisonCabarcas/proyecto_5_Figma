@@ -501,3 +501,119 @@ color: #FFFFFF;
   line-height: 16px;
   color: #FFFFFF;
 }
+.main-point{
+  position: absolute;
+width: 50px;
+height: 20px;
+left: 38px;
+top: 1496px;
+}
+.main-blog{
+  width: 90vw;
+  height: 304px;
+  position: absolute;
+height: 304px;
+left: 24px;
+top: 1497px;
+background: #FFFFFF;
+box-shadow: 0px 8px 20px rgba(197, 166, 236, 0.05);
+border-radius: 20px;
+margin-top: 40px;
+}
+.main-blog-container{
+width: 100%;
+height: 304px;
+}
+.main-blog-frac1{
+  display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+margin-top: 20px;
+position: static;
+width: 100%;
+height: 68px;
+left: 20px;
+top: 20px;
+}
+.main-blog-frac1 h4{
+  font-style: normal;
+font-weight: bold;
+line-height: 21px;
+color: #817699;
+margin-left: 20px;
+}
+.main-blog-frac1 p{
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10px;
+  line-height: 14px;
+  color: #58506B;
+  margin-left: 20px;
+  margin-top: 5px;
+  margin-right: 15px;
+  letter-spacing: -0.03em;
+
+}
+.main-blog-frac2{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px;
+  margin-top: 30px;
+  position: static;
+  width: 100%;
+  height: 68px;
+  left: 20px;
+  top: 118px;
+}
+.main-blog-frac2 h4{
+  font-style: normal;
+font-weight: bold;
+line-height: 21px;
+color: #817699;
+margin-left: 20px;
+}
+.main-blog-frac2 p{
+  font-style: normal;
+  font-weight: normal;
+  line-height: 14px;
+  color: #58506B;
+  margin-left: 20px;
+  margin-top: 5px;
+  margin-right: 15px;
+  font-size: 10px;
+  letter-spacing: -0.03em;
+}
+.main-blog-frac3{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px;
+  margin-top: 30px;
+  position: static;
+  width: 100%;
+  height: 68px;
+  left: 20px;
+  top: 216px;
+  
+}
+.main-blog-frac3 h4{
+  font-style: normal;
+font-weight: bold;
+line-height: 21px;
+color: #817699;
+margin-left: 20px;
+}
+
+.main-blog-frac3 p{
+  font-style: normal;
+  font-weight: normal;
+  line-height: 14px;
+  color: #58506B;
+  margin-left: 20px;
+  margin-top: 5px;
+  margin-right: 15px;
+  font-size: 10px;
+  letter-spacing: -0.03em;
+}
