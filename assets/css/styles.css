@@ -28,7 +28,7 @@ header {
   top: 54px;
 }
 .header-title h3 {
-  color: #58506b;
+  color: #3a324d;
 }
 
 .header-img {
@@ -50,7 +50,7 @@ header {
   left: 24px;
   right: 24px;
   top: 119px;
-  background: linear-gradient(100deg, #2c52d8 40%, #54d1ed 100%);
+  background: linear-gradient(100deg, #384266 40%, #000000 100%);
   border-radius: 20px;
 }
 .main-text1 {
@@ -136,7 +136,7 @@ header {
   font-weight: 400;
   font-size: 14px;
   line-height: 21px;
-  color: #58506b;
+  color: #3a324d;
 }
 .main-status-text2 {
   position: absolute;
@@ -144,14 +144,14 @@ header {
   height: 21px;
   left: 21px;
   bottom: 20px;
-  color: #58506b;
+  color: #3a324d;
 }
 .main-status-text2 p {
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
   line-height: 21px;
-  color: #58506b;
+  color: #3a324d;
 }
 .divider {
   position: absolute;
@@ -168,7 +168,7 @@ header {
   height: 21px;
   left: 174px;
   top: 20px;
-  color: #58506b;
+  color: #3a324d;
 }
 .main-status-text3 p {
   font-style: normal;
@@ -176,7 +176,7 @@ header {
   font-size: 14px;
   line-height: 21px;
   text-align: end;
-  color: #58506b;
+  color: #3a324d;
 }
 .main-status-text4 {
   position: absolute;
@@ -184,7 +184,7 @@ header {
   height: 21px;
   left: 174px;
   bottom: 20px;
-  color: #58506b;
+  color: #3a324d;
 }
 .main-status-text4 p {
   font-style: normal;
@@ -192,7 +192,7 @@ header {
   font-size: 14px;
   line-height: 21px;
   text-align: end;
-  color: #58506b;
+  color: #3a324d;
 }
 .main-meta{
   width: 100%;
@@ -208,7 +208,7 @@ header {
   top: 551px;
 }
 .main-title h3 {
-  color: #58506b;
+  color: #3a324d;
 }
 
 .main-goal {
@@ -240,7 +240,7 @@ header {
 }
 
 .main-goal-info1 .main-goal-p1 p {
-  color: #817699;
+  color: #3a324d;
   width: 100%;
   height: 42px;
   margin-top: 10px;
@@ -269,7 +269,7 @@ header {
   line-height: 17px;
 }
 .p2 {
-  color: #817699;
+  color: #3a324d;
   font-style: normal;
   font-weight: 400;
   font-size: 10px;
@@ -281,7 +281,7 @@ header {
 }
 
 .main-goal-info2 .main-goal-p1 p {
-  color: #817699;
+  color: #3a324d;
   width: 100%;
   height: 42px;
   margin-top: 10px;
@@ -317,7 +317,7 @@ header {
   align-items: center;
 }
 .portafolio-title p {
-  color: #58506b;
+  color: #3a324d;
   font-style: normal;
   font-weight: 600;
   font-size: 18px;
@@ -326,7 +326,7 @@ header {
 .portafolio-logo {
   margin-right: 24px;
   background: #e4ffee;
-  border: 0.5px solid #41cf69;
+  border: 0.5px solid #384266;
   box-sizing: border-box;
   border-radius: 10px;
   flex-direction: row;
@@ -338,7 +338,7 @@ header {
   font-weight: 600;
   font-size: 10px;
   line-height: 14px;
-  color: #41cf69;
+  color: ##384266;
   margin: 0px 5px;
 }
 .main-card-portafolio {
@@ -377,7 +377,7 @@ header {
   font-weight: normal;
   font-size: 12px;
   line-height: 16px;
-  color: #58506b;
+  color: #3a324d;
 }
 .main-portafolio-text .portafolio-p2 {
   margin-top: 5px;
@@ -389,7 +389,7 @@ header {
   align-items: center;
   letter-spacing: -0.03em;
 
-  color: #58506b;
+  color: #3a324d;
 }
 .main-portafolio-text .portafolio-p3 {
   margin-top: 5px;
@@ -412,7 +412,7 @@ header {
   line-height: 14px;
   letter-spacing: -0.03em;
 
-  color: #58506b;
+  color: #3a324d;
 }
 .main-portafolio-p5 {
   height: 28px;
@@ -426,7 +426,7 @@ header {
   font-weight: normal;
   font-size: 10px;
   line-height: 14px;
-  color: #58506b;
+  color: #3a324d;
 }
 .main-mjs{
   width: 100%;
@@ -447,7 +447,7 @@ header {
 
   align-items: center;
 
-  color: #58506b;
+  color: #3a324d;
 }
 .main-media {
   width: 100%;
@@ -551,7 +551,7 @@ top: 20px;
   font-style: normal;
 font-weight: bold;
 line-height: 21px;
-color: #817699;
+color: #3a324d;
 margin-left: 20px;
 }
 .main-blog-frac1 p{
@@ -559,7 +559,7 @@ margin-left: 20px;
   font-weight: normal;
   font-size: 10px;
   line-height: 14px;
-  color: #58506B;
+  color: #3a324d;
   margin-left: 20px;
   margin-top: 5px;
   margin-right: 15px;
@@ -582,14 +582,14 @@ margin-left: 20px;
   font-style: normal;
 font-weight: bold;
 line-height: 21px;
-color: #817699;
+color: #3a324d;
 margin-left: 20px;
 }
 .main-blog-frac2 p{
   font-style: normal;
   font-weight: normal;
   line-height: 14px;
-  color: #58506B;
+  color: #3a324d;
   margin-left: 20px;
   margin-top: 5px;
   margin-right: 15px;
@@ -613,7 +613,7 @@ margin-left: 20px;
   font-style: normal;
 font-weight: bold;
 line-height: 21px;
-color: #817699;
+color: #3a324d;
 margin-left: 20px;
 }
 
@@ -621,7 +621,7 @@ margin-left: 20px;
   font-style: normal;
   font-weight: normal;
   line-height: 14px;
-  color: #58506B;
+  color: #3a324d;
   margin-left: 20px;
   margin-top: 5px;
   margin-right: 15px;
@@ -666,6 +666,6 @@ align-items: center;
 text-align: center;
 letter-spacing: -0.03em;
 
-color: #A99DC6;
+color: #3a324d;
 
 }
